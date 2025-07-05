@@ -1,0 +1,9 @@
+com\mycompany\ecommerce\ExpirableProduct.class
+com\mycompany\ecommerce\Ecommerce.class
+com\mycompany\ecommerce\ExpierShappableProduct.class
+com\mycompany\ecommerce\Product.class
+com\mycompany\ecommerce\Shopping.class
+com\mycompany\ecommerce\Customer.class
+com\mycompany\ecommerce\Shippable.class
+com\mycompany\ecommerce\Cart.class
+com\mycompany\ecommerce\ShippableProduct.class
